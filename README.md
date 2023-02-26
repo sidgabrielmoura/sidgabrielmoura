@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
 # Eai! Eu sou o Sid Gabriel Barbosa Moura
 
 - 🔭 atualmente trabalho com front-end
@@ -14,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+#
 
 <div> 
   <a href="https://instagram.com/rlk.bielxzin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,3 +25,18 @@
   <a href="https://www.linkedin.com/in/sid-gabriel-barbosa-moura-347474253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+#
+
+<div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sidgabrielmoura&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="sidgabrielmoura github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgabrielmoura&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
+</div>
+
+#
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sidgabrielmoura&bg_color=0d1117&color=FF0000&line=FF0000&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
