@@ -3,7 +3,7 @@
 # Eai! Eu sou o Sid Gabriel Barbosa Moura
 
 - 🔭 atualmente trabalho com front-end
-- 🌱 estou aprendendo python
+- 🌱 estou aprendendo Angular
 - 📫 contate-me no e-mail: sidgabrielmoura40@gmail.com
 - 😄 Pronouns: ele/dele
 
