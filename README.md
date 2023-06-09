@@ -37,6 +37,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sidgabrielmoura&bg_color=0d1117&color=A303C6&line=A303C6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![Snake animation](https://github.com/sidgabrielmoura/sidgabrielmoura/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A303C6&height=120&section=footer"/>
