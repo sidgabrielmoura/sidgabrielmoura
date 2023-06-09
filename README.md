@@ -19,7 +19,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgabrielmoura&layout=compact&hide_border=true&title_color=dfdfdf&text_color=dfdfdf&bg_color=0d1117" />
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidgabrielmoura&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sidgabrielmoura&bg_color=0d1117&hide_border=true)<br/>
 
 #
 
