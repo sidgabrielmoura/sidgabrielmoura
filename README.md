@@ -35,4 +35,6 @@
 
 #
 
+![snake gif](https://github.com/Jhonatta-Matias896/Jhonatta-Matias896/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfdfdf&height=100&section=footer"/>
