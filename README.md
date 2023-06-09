@@ -18,6 +18,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidgabrielmoura&layout=compact&hide_border=true&title_color=dfdfdf&text_color=dfdfdf&bg_color=0d1117" />
   
 </div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sidgabrielmoura&theme=omni&hide_border=false)<br/>
 
 #
 
@@ -32,15 +33,6 @@
 [![](https://visitcount.itsvg.in/api?id=sidgabrielmoura&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfdfdf&height=100&section=footer"/>
-
-
-
-
-
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidgabrielmoura&theme=omni&hide_border=false)<br/>
 
 
 
