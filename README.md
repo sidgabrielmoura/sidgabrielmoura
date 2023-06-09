@@ -21,6 +21,7 @@
   
 </div>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sidgabrielmoura&theme=omni&hide_border=false)<br/>
 
 #
 
