@@ -2,8 +2,8 @@
 
 # Eai! Eu sou o Sid Gabriel Barbosa Moura
 
-- 🔭 atualmente trabalho com front-end
-- 🌱 estou aprendendo: Next.js
+- 🔭 atualmente trabalho com: full-stack
+- 🌱 estou aprendendo: Kotlin
 - 📫 contate-me no e-mail: sidgabrielmoura40@gmail.com
 - 😄 Pronouns: ele/dele
 
