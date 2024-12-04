@@ -2,7 +2,7 @@
 
 # Eai! Eu sou o Sid Gabriel Barbosa Moura
 
-- 🔭 atualmente trabalho com: full-stack
+- 🔭 atualmente trabalho com: vue.js
 - 🌱 estou aprendendo: Kotlin
 - 📫 contate-me no e-mail: sidgabrielmoura40@gmail.com
 - 😄 Pronouns: ele/dele
