@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfdfdf&height=100&section=header"/>
 
-# Eai! Eu sou o Sid Gabriel Barbosa Moura
+# Olá! Eu sou Sid Gabriel
 
-- 🔭 atualmente trabalho com: vue.js
-- 🌱 estou aprendendo: Kotlin
+- 🔭 atualmente trabalho com: vue.js & Next.js
+- 🌱 estou aprendendo: Flutter
 - 📫 contate-me no e-mail: sidgabrielmoura40@gmail.com
-- 😄 Pronouns: ele/dele
 
 #
 
